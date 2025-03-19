@@ -27,7 +27,7 @@
 
 > [!NOTE]
 > uYouPlus is a **modified version** of uYou. **Please DO NOT bother MiRO92 with issues unrelated to uYou!**
-
+bøø
 ## Table of contents
 
 * [Download](#download)
